@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="212" it="0" lt="185" ct="85" ts="1682163883751" s="true" lb="API" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="16740" sby="115" ng="1" na="1">
+  <java.net.URL>http://www.google.de/</java.net.URL>
+</httpSample>
+
+<httpSample t="238" it="0" lt="208" ct="91" ts="1682164338904" s="true" lb="API" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="16709" sby="115" ng="1" na="1">
+  <java.net.URL>http://www.google.de/</java.net.URL>
+</httpSample>
+
+</testResults>
